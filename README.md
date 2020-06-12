@@ -15,9 +15,11 @@
 ## Physical Environment：
     - NVIDIA GTX 1650 4G
 
-## Need to install MySQL
-    - https://dev.mysql.com/downloads/mysql/
+## Need to install MySQL:
+      https://dev.mysql.com/downloads/mysql/
 ## Tips 
     -runfile mainWindow_facenet.py  使用FaceNet作为后端。 use FaceNet as backend.
     -runfile mainWindow_birth.py  使用自定义神经网络作为后端。 use custom model as backend.
-## 
+## Train costom model
+    -runfile train_birth.py
+
