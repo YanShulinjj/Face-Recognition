@@ -13,6 +13,8 @@
     - PyMySQL == 0.9.3
     
 ## Physical Environment：
+    - AMD Ryzen 7 4800H
+    - RAM = 16G
     - NVIDIA GTX 1650 4G
 
 ## Need to install MySQL:https://dev.mysql.com/downloads/mysql/
