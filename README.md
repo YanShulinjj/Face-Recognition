@@ -22,3 +22,7 @@
 ## Train costom model
     -runfile train_birth.py
 
+## WARM PROMPT
+    - 如果你用的笔记本电脑，运行本系统时，请接上电源，因为程序有可能会闪退，至少在我的电脑出现了这种状况。
+    - If you're using a laptop, plug it in when you're running this system, because the program might backslide, at least in my case.
+### Email: 1935971904@qq.com
