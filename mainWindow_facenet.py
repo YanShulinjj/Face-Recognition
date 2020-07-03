@@ -722,7 +722,7 @@ class Main_window(object):
                 else:
                     self.tip = 'Open your mouth'
             for f in frames:
-                if len(f) > 0:
+                if 0 in f.shape:
                     pots = getPointsImg(f)
 
                     if len(pots) > 0 and self.sign_fg:
