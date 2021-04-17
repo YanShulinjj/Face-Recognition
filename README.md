@@ -24,4 +24,4 @@
 ## Train costom model
     -runfile train_birth.py
 
-### Email: yangeniux@qq.com
+### Email: suyame2021@outlook.com
